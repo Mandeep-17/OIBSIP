@@ -17,4 +17,4 @@ Sales prediction means predicting how much of a product people will buy based on
 such as the amount you spend to advertise your product, the segment of people you
 advertise for, or the platform you are advertising on about your product.
 
-Notebook Link : 
+Notebook Link : https://github.com/Mandeep-17/OIBSIP/blob/main/Sales%20Prediction%20(1).ipynb
