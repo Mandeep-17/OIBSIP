@@ -9,4 +9,12 @@ Task 2 : Unemployment Analysis
 Unemployment is measured by the unemployment rate which is the number of people
 who are unemployed as a percentage of the total labour force. 
 
+Notebook Link : https://github.com/Mandeep-17/OIBSIP/blob/main/Unemployment.ipynb
+
+Task 3 : Sales Prediction
+
+Sales prediction means predicting how much of a product people will buy based on factors
+such as the amount you spend to advertise your product, the segment of people you
+advertise for, or the platform you are advertising on about your product.
+
 Notebook Link : 
